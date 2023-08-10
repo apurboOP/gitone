@@ -2,8 +2,12 @@ Two
 2
 দুই
 three
+<<<<<<< HEAD
 last
 Hello
 Hello Dear Friend
+=======
+Hello Dear Friend all
+>>>>>>> Div
 
 
